@@ -16,7 +16,7 @@
 * Aseguro la formación hacia las personas quienes utilizarán las soluciones.
 ---
 ## 📬 Contáctame
-* 📧 Email: [israelgarrido@@gmail.com](mailto:israelgarrido@gmail.com)
+* ![](https://img.icons8.com/?size=18&id=37246&format=png) Email: [israelgarrido@@gmail.com](mailto:israelgarrido@gmail.com)
 * ![](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/linkedin.svg) LinkedIn: [https://www.linkedin.com/in/israel-garrido-alvarado/](https://www.linkedin.com/in/israel-garrido-alvarado/)
 ---
 ## 📂 Portafolio (Framwork Django - Python)

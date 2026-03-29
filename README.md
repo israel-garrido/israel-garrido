@@ -19,12 +19,14 @@
 * ![](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/linkedin.svg) LinkedIn: [https://www.linkedin.com/in/israel-garrido-alvarado/](https://www.linkedin.com/in/israel-garrido-alvarado/)
 ---
 ## 📂 Portafolio (Framwork Django - Python - Bootstrap)
+* 🎫 [Portal Empresa (Django / SQLLite)](https://github.com/israel-garrido/soporte_empresa)
 * 🎮 [Catálogo de videojuegos (Django / SQLite)](https://github.com/israel-garrido/club_vj)
-* * 🎫 [Sistema de Tickets (CRUD Django)](https://github.com/alejakazam/M8-CRUD)
-* 📚 [Sistema de Préstamo de Libros](https://github.com/alejakazam/M8-Biblioteca)
-* 💻 [Sistema de Préstamo de Notebooks](https://github.com/alejakazam/M8-Prestamos)
-* 🛒 [Tienda Web (Django + Sass)](https://github.com/alejakazam/Django-Dogstore-con-Sass)
-* 💳 [AlkeWallet (Base de Datos)](https://github.com/alejakazam/alke-wallet)
+
+* 💳 [Billetera Digital (Bootstrap)](https://github.com/israel-garrido/proyecto-wallet)
+* :notebook_with_decorative_cover: 🖥️ [Sistema de Inventario (Python)](https://github.com/israel-garrido/sistema_inventario_python)
+*https://github.com/israel-garrido/proyecto-gic
+
+
 ---
 ## 🛠️ Hard Skills
 

@@ -2,11 +2,11 @@
 ### Mi nombres es Israel Garrido,  Ingeniero en Computación e Informática de profesión 💻💼
 ### Coleccionista de oficio 🪙🕹️
 ### Tengo amplia experiencia en el liderazgo de equipos y desarrollo de soluciones en los rubros de transporte, minería y educación.
-### Siempre estoy actualizando mis habilidades técnicas, ahora consolido mi conocimiento como **Full-Stack Development** con **Django**
+### Siempre estoy actualizando mis habilidades técnicas, ahora consolido mi conocimiento como __Full-Stack Development__ con **Django**
 ### Me gusta elaborar soluciones sencillas, prácticas y si están apalancadas con tecnología mejor aún.
 ---
 ## 🚀 About me
-* Ampliando mi conocimiento en el desarrollo **Full Stack** con **Django y Python**
+* Ampliando mis conocimientos en el desarrollo **Full Stack** con **Django y Python**
 * Liderando el diseño de Datamarts y centralización de KPIS en el área de educación
 * Estoy ampliando mis conocimeintos en ciencia de datos y LLMs
 * Priorizo el desarrollo de soluciones escalables
@@ -28,7 +28,7 @@
 [![Backend](https://skillicons.dev/icons?i=django,postgres,sqlite,,wasm)](https://skillicons.dev)
 
 ## 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,bootstrap)]
 
 ## ⚙️ Otros
-[![Others](https://skillicons.dev/icons?i=github,vscode,css,bootstrap)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)

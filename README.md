@@ -27,7 +27,9 @@
 ## 🛠️ Hard Skills 
 ##💻 Backend
 [![Backend](https://skillicons.dev/icons?i=django,postgres,sqlite)](https://skillicons.dev)
+
 ##🎨 Frontend
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+
 ##⚙️ Otros
 [![Others](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)

@@ -1,10 +1,9 @@
-# __EN DESARROLLO__
 ### Buenos días ☀️, buenas tardes ⛅, buenas noches 🌃 !!! 
 ### Mi nombres es Israel Garrido,  Ingeniero en Computación e Informática de profesión 💻💼
 ### Coleccionista de oficio 🪙🕹️
 ### Tengo amplia experiencia en el liderazgo de equipos y desarrollo de soluciones en los rubros de transporte, minería y educación.
 ### Siempre estoy actualizando mis habilidades técnicas, ahora consolido mi conocimiento como **Full-Stack Development** con **Django**
-### Me gusta elaborar soluciones sencillas. prácticas y si estan apalancadas con tecnología mejora aún.
+### Me gusta elaborar soluciones sencillas, prácticas y si están apalancadas con tecnología mejor aún.
 ---
 ## 🚀 About me
 * Ampliando mi conocimiento en el desarrollo **Full Stack** con **Django y Python**
@@ -21,40 +20,15 @@
 ## 📂 Portafolio (Framwork Django - Python - Bootstrap)
 * 🎫 [Portal Empresa (Django / SQLLite)](https://github.com/israel-garrido/soporte_empresa)
 * 🎮 [Catálogo de videojuegos (Django / SQLite)](https://github.com/israel-garrido/club_vj)
-
 * 💳 [Billetera Digital (Bootstrap)](https://github.com/israel-garrido/proyecto-wallet)
-* :notebook_with_decorative_cover: 🖥️ [Sistema de Inventario (Python)](https://github.com/israel-garrido/sistema_inventario_python)
-*https://github.com/israel-garrido/proyecto-gic
-
-
+* :notebook_with_decorative_cover:  [Sistema de Inventario (Python)](https://github.com/israel-garrido/sistema_inventario_python)
+* 🖥️ [Gestion de Clientes (Python)](https://github.com/israel-garrido/proyecto-gic)
 ---
-## 🛠️ Hard Skills
+## 🛠️ Hard Skills 💻 Backend
+[![Backend](https://skillicons.dev/icons?i=django,postgres,sqlite,,wasm)](https://skillicons.dev)
 
-### 💻 Backend
+## 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 
-* Python
-* Django
-* PostgreSQL
-* SQLite
-
-### 🎨 Frontend
-
-* HTML5
-* CSS3 / Sass
-* Bootstrap 5
-* JavaScript
-
-### ⚙️ Otros
-
-* Git & GitHub
-* VS Code
-* Entornos virtuales (venv)
-* Arquitectura MVC / MVT
-* Canva
-
----
-
-## 📫 Contacto
-
-* ✉️ Email: [alefyduarte@gmail.com](mailto:alefyduarte@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/aduarteps/
+## ⚙️ Otros
+[![Others](https://skillicons.dev/icons?i=github,vscode,css,bootstrap)](https://skillicons.dev)

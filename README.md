@@ -14,7 +14,7 @@
 * Aseguro la formación hacia las personas quienes utilizarán las soluciones.
 ---
 ## 📬 Contáctame
-* ![](https://img.icons8.com/?size=18&id=37246&format=png) Email: [israelgarrido@@gmail.com](mailto:israelgarrido@gmail.com)
+* ![](https://img.icons8.com/?size=18&id=37246&format=png) Email: [israelgarrido@gmail.com](mailto:israelgarrido@gmail.com)
 * ![](https://github.com/CLorant/readme-social-icons/blob/main/small/colored/linkedin.svg) LinkedIn: [https://www.linkedin.com/in/israel-garrido-alvarado/](https://www.linkedin.com/in/israel-garrido-alvarado/)
 ---
 ## 📂 Portafolio (Framwork Django - Python - Bootstrap)
@@ -25,9 +25,9 @@
 * 🖥️ [Gestion de Clientes (Python)](https://github.com/israel-garrido/proyecto-gic)
 ---
 ## 🛠️ Hard Skills 
-**💻 Backend
-[![Backend](https://skillicons.dev/icons?i=django,postgres,sqlite,,wasm)](https://skillicons.dev)
-## 🎨 Frontend
+##💻 Backend
+[![Backend](https://skillicons.dev/icons?i=django,postgres,sqlite)](https://skillicons.dev)
+##🎨 Frontend
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
-## ⚙️ Otros
+##⚙️ Otros
 [![Others](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)

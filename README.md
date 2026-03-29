@@ -24,11 +24,10 @@
 * :notebook_with_decorative_cover:  [Sistema de Inventario (Python)](https://github.com/israel-garrido/sistema_inventario_python)
 * 🖥️ [Gestion de Clientes (Python)](https://github.com/israel-garrido/proyecto-gic)
 ---
-## 🛠️ Hard Skills 💻 Backend
+## 🛠️ Hard Skills 
+**💻 Backend
 [![Backend](https://skillicons.dev/icons?i=django,postgres,sqlite,,wasm)](https://skillicons.dev)
-
 ## 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=js,html,css,bootstrap)]
-
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 ## ⚙️ Otros
 [![Others](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)

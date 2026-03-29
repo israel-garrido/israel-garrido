@@ -25,11 +25,11 @@
 * 🖥️ [Gestion de Clientes (Python)](https://github.com/israel-garrido/proyecto-gic)
 ---
 ## 🛠️ Hard Skills 
-***💻 Backend
+💻 *** Backend
 [![Backend](https://skillicons.dev/icons?i=django,postgres,sqlite)](https://skillicons.dev)
 
-***🎨 Frontend
+🎨 *** Frontend
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 
-**⚙️ Otros
+⚙️ *** Otros
 [![Others](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
